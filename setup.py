@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='Demo',
+setup(name='M14 Challenge',
       version='0.1',
-      description='A pointless demonstration package',
-      url='http://github.com/storborg/m14-demo',
-      author='R.C. Alvarado',
-      author_email='ontoligent@gmail.com',
+      description='A pointful demonstration package',
+      url='https://github.com/Griffin-McCauley/DS5100-M14-Challenge',
+      author='Griffin McCauley',
+      author_email='kzj5qw@virginia.edu',
       license='MIT',
-      packages=['demo'])
+      packages=['M14_Challenge'])
