@@ -1,1 +1,1 @@
-print("Welcome to my module!")
+print("Here is our challenge module.")
